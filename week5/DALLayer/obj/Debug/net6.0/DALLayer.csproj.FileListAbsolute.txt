@@ -1,0 +1,15 @@
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week5\DALLayer\obj\Debug\net6.0\DALLayer.csproj.AssemblyReference.cache
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week5\DALLayer\obj\Debug\net6.0\DALLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week5\DALLayer\obj\Debug\net6.0\DALLayer.AssemblyInfoInputs.cache
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week5\DALLayer\obj\Debug\net6.0\DALLayer.AssemblyInfo.cs
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week5\DALLayer\obj\Debug\net6.0\DALLayer.csproj.CoreCompileInputs.cache
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week5\DALLayer\bin\Debug\net6.0\DALLayer.deps.json
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week5\DALLayer\bin\Debug\net6.0\DALLayer.dll
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week5\DALLayer\bin\Debug\net6.0\DALLayer.pdb
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week5\DALLayer\bin\Debug\net6.0\ModelLayer.dll
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week5\DALLayer\bin\Debug\net6.0\ModelLayer.pdb
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week5\DALLayer\obj\Debug\net6.0\DALLayer.csproj.CopyComplete
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week5\DALLayer\obj\Debug\net6.0\DALLayer.dll
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week5\DALLayer\obj\Debug\net6.0\refint\DALLayer.dll
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week5\DALLayer\obj\Debug\net6.0\DALLayer.pdb
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week5\DALLayer\obj\Debug\net6.0\ref\DALLayer.dll

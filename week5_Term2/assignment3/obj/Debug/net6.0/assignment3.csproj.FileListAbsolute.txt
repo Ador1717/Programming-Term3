@@ -1,0 +1,17 @@
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week5_Term2\assignment3\bin\Debug\net6.0\assignment3.exe
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week5_Term2\assignment3\bin\Debug\net6.0\assignment3.deps.json
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week5_Term2\assignment3\bin\Debug\net6.0\assignment3.runtimeconfig.json
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week5_Term2\assignment3\bin\Debug\net6.0\assignment3.dll
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week5_Term2\assignment3\bin\Debug\net6.0\assignment3.pdb
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week5_Term2\assignment3\obj\Debug\net6.0\assignment3.csproj.AssemblyReference.cache
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week5_Term2\assignment3\obj\Debug\net6.0\assignment3.Properties.Resources.resources
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week5_Term2\assignment3\obj\Debug\net6.0\assignment3.csproj.GenerateResource.cache
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week5_Term2\assignment3\obj\Debug\net6.0\assignment3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week5_Term2\assignment3\obj\Debug\net6.0\assignment3.AssemblyInfoInputs.cache
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week5_Term2\assignment3\obj\Debug\net6.0\assignment3.AssemblyInfo.cs
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week5_Term2\assignment3\obj\Debug\net6.0\assignment3.csproj.CoreCompileInputs.cache
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week5_Term2\assignment3\obj\Debug\net6.0\assignment3.dll
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week5_Term2\assignment3\obj\Debug\net6.0\refint\assignment3.dll
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week5_Term2\assignment3\obj\Debug\net6.0\assignment3.pdb
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week5_Term2\assignment3\obj\Debug\net6.0\assignment3.genruntimeconfig.cache
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week5_Term2\assignment3\obj\Debug\net6.0\ref\assignment3.dll

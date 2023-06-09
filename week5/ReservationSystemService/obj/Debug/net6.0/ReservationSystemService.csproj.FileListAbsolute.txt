@@ -1,0 +1,17 @@
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week5\ReservationSystemService\obj\Debug\net6.0\ReservationSystemService.csproj.AssemblyReference.cache
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week5\ReservationSystemService\obj\Debug\net6.0\ReservationSystemService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week5\ReservationSystemService\obj\Debug\net6.0\ReservationSystemService.AssemblyInfoInputs.cache
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week5\ReservationSystemService\obj\Debug\net6.0\ReservationSystemService.AssemblyInfo.cs
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week5\ReservationSystemService\obj\Debug\net6.0\ReservationSystemService.csproj.CoreCompileInputs.cache
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week5\ReservationSystemService\bin\Debug\net6.0\ReservationSystemService.deps.json
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week5\ReservationSystemService\bin\Debug\net6.0\ReservationSystemService.dll
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week5\ReservationSystemService\bin\Debug\net6.0\ReservationSystemService.pdb
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week5\ReservationSystemService\bin\Debug\net6.0\DALLayer.dll
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week5\ReservationSystemService\bin\Debug\net6.0\ModelLayer.dll
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week5\ReservationSystemService\bin\Debug\net6.0\DALLayer.pdb
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week5\ReservationSystemService\bin\Debug\net6.0\ModelLayer.pdb
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week5\ReservationSystemService\obj\Debug\net6.0\ReservationSystemService.csproj.CopyComplete
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week5\ReservationSystemService\obj\Debug\net6.0\ReservationSystemService.dll
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week5\ReservationSystemService\obj\Debug\net6.0\refint\ReservationSystemService.dll
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week5\ReservationSystemService\obj\Debug\net6.0\ReservationSystemService.pdb
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week5\ReservationSystemService\obj\Debug\net6.0\ref\ReservationSystemService.dll

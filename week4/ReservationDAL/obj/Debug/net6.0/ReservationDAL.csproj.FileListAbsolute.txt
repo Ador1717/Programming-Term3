@@ -1,0 +1,15 @@
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week4\ReservationDAL\bin\Debug\net6.0\ReservationDAL.deps.json
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week4\ReservationDAL\bin\Debug\net6.0\ReservationDAL.dll
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week4\ReservationDAL\bin\Debug\net6.0\ReservationDAL.pdb
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week4\ReservationDAL\bin\Debug\net6.0\ReservationSystemModel.dll
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week4\ReservationDAL\bin\Debug\net6.0\ReservationSystemModel.pdb
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week4\ReservationDAL\obj\Debug\net6.0\ReservationDAL.csproj.AssemblyReference.cache
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week4\ReservationDAL\obj\Debug\net6.0\ReservationDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week4\ReservationDAL\obj\Debug\net6.0\ReservationDAL.AssemblyInfoInputs.cache
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week4\ReservationDAL\obj\Debug\net6.0\ReservationDAL.AssemblyInfo.cs
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week4\ReservationDAL\obj\Debug\net6.0\ReservationDAL.csproj.CoreCompileInputs.cache
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week4\ReservationDAL\obj\Debug\net6.0\ReservationDAL.csproj.CopyComplete
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week4\ReservationDAL\obj\Debug\net6.0\ReservationDAL.dll
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week4\ReservationDAL\obj\Debug\net6.0\refint\ReservationDAL.dll
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week4\ReservationDAL\obj\Debug\net6.0\ReservationDAL.pdb
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week4\ReservationDAL\obj\Debug\net6.0\ref\ReservationDAL.dll

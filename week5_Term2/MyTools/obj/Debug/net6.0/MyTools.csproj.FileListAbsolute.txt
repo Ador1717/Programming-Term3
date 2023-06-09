@@ -1,0 +1,15 @@
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week5_Term2\MyTools\bin\Debug\net6.0\MyTools.exe
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week5_Term2\MyTools\bin\Debug\net6.0\MyTools.deps.json
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week5_Term2\MyTools\bin\Debug\net6.0\MyTools.runtimeconfig.json
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week5_Term2\MyTools\bin\Debug\net6.0\MyTools.dll
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week5_Term2\MyTools\bin\Debug\net6.0\MyTools.pdb
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week5_Term2\MyTools\obj\Debug\net6.0\MyTools.csproj.AssemblyReference.cache
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week5_Term2\MyTools\obj\Debug\net6.0\MyTools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week5_Term2\MyTools\obj\Debug\net6.0\MyTools.AssemblyInfoInputs.cache
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week5_Term2\MyTools\obj\Debug\net6.0\MyTools.AssemblyInfo.cs
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week5_Term2\MyTools\obj\Debug\net6.0\MyTools.csproj.CoreCompileInputs.cache
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week5_Term2\MyTools\obj\Debug\net6.0\MyTools.dll
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week5_Term2\MyTools\obj\Debug\net6.0\refint\MyTools.dll
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week5_Term2\MyTools\obj\Debug\net6.0\MyTools.pdb
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week5_Term2\MyTools\obj\Debug\net6.0\MyTools.genruntimeconfig.cache
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week5_Term2\MyTools\obj\Debug\net6.0\ref\MyTools.dll

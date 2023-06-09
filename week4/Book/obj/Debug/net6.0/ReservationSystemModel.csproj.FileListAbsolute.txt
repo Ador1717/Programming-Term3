@@ -1,0 +1,12 @@
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week4\Book\bin\Debug\net6.0\ReservationSystemModel.deps.json
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week4\Book\bin\Debug\net6.0\ReservationSystemModel.dll
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week4\Book\bin\Debug\net6.0\ReservationSystemModel.pdb
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week4\Book\obj\Debug\net6.0\ReservationSystemModel.csproj.AssemblyReference.cache
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week4\Book\obj\Debug\net6.0\ReservationSystemModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week4\Book\obj\Debug\net6.0\ReservationSystemModel.AssemblyInfoInputs.cache
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week4\Book\obj\Debug\net6.0\ReservationSystemModel.AssemblyInfo.cs
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week4\Book\obj\Debug\net6.0\ReservationSystemModel.csproj.CoreCompileInputs.cache
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week4\Book\obj\Debug\net6.0\ReservationSystemModel.dll
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week4\Book\obj\Debug\net6.0\refint\ReservationSystemModel.dll
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week4\Book\obj\Debug\net6.0\ReservationSystemModel.pdb
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week4\Book\obj\Debug\net6.0\ref\ReservationSystemModel.dll

@@ -1,0 +1,12 @@
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week5_Term2\CandyCrushLogic\bin\Debug\net6.0\CandyCrushLogic.deps.json
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week5_Term2\CandyCrushLogic\bin\Debug\net6.0\CandyCrushLogic.dll
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week5_Term2\CandyCrushLogic\bin\Debug\net6.0\CandyCrushLogic.pdb
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week5_Term2\CandyCrushLogic\obj\Debug\net6.0\CandyCrushLogic.csproj.AssemblyReference.cache
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week5_Term2\CandyCrushLogic\obj\Debug\net6.0\CandyCrushLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week5_Term2\CandyCrushLogic\obj\Debug\net6.0\CandyCrushLogic.AssemblyInfoInputs.cache
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week5_Term2\CandyCrushLogic\obj\Debug\net6.0\CandyCrushLogic.AssemblyInfo.cs
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week5_Term2\CandyCrushLogic\obj\Debug\net6.0\CandyCrushLogic.csproj.CoreCompileInputs.cache
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week5_Term2\CandyCrushLogic\obj\Debug\net6.0\CandyCrushLogic.dll
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week5_Term2\CandyCrushLogic\obj\Debug\net6.0\refint\CandyCrushLogic.dll
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week5_Term2\CandyCrushLogic\obj\Debug\net6.0\CandyCrushLogic.pdb
+C:\Users\ador1\OneDrive\Desktop\ProgramingTerm3\week5_Term2\CandyCrushLogic\obj\Debug\net6.0\ref\CandyCrushLogic.dll
